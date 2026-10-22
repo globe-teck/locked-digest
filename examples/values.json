@@ -1,0 +1,9 @@
+{
+  "date": "2026-03-05",
+  "overall": "yellow",
+  "done": ["Weekly report published", "Backup restore test passed"],
+  "decisions": ["Approve the new support-reply wording (draft in the shared folder)"],
+  "on_time": 11,
+  "total": 12,
+  "routine_notes": "nightly-backup missed its 02:15 run; rerun at 08:40 succeeded"
+}

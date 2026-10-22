@@ -1,0 +1,12 @@
+{
+ "sha256": "2fa893e817984db6efb5a1c819511ad0ec4ea9dda7aeb5e415509691af22d585",
+ "slots": [
+  "date",
+  "overall",
+  "done",
+  "decisions",
+  "on_time",
+  "total",
+  "routine_notes"
+ ]
+}
